@@ -1,1 +1,1 @@
-console.log('吴小东');
+console.log('test');
